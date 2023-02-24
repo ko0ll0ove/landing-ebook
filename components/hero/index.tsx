@@ -43,7 +43,7 @@ export const Hero = () => {
                         display: 'inline',
                      }}
                   >
-                     The modern landing page{' '}
+                     Tận dụng tối đa sức mạnh{' '}
                   </Text>
                   <Text
                      h1
@@ -51,7 +51,7 @@ export const Hero = () => {
                         display: 'inline',
                      }}
                   >
-                     for{' '}
+                     của{' '}
                   </Text>
                   <Text
                      h1
@@ -60,7 +60,7 @@ export const Hero = () => {
                      }}
                      color="primary"
                   >
-                     React developers
+                     ChatGPT
                   </Text>
                </Box>
 
@@ -72,8 +72,9 @@ export const Hero = () => {
                   size={'$lg'}
                   span
                >
-                  The easiest way to build React Landing page in seconds. Save
-                  time and focus on your project.
+                  "Trí tuệ nhân tạo (AI) không thể thay thế hoàn toàn được khả năng của con người. 
+                  Tuy nhiên, những người hiểu biết về AI và biết cách tận dụng
+                   nó sẽ chắc chắn thay thế được những người không biết sử dụng công nghệ này"
                </Text>
 
                <Flex
@@ -83,8 +84,8 @@ export const Hero = () => {
                   }}
                   wrap={'wrap'}
                >
-                  <Input placeholder="Enter your email address" size="lg" />
-                  <Button>Start Free Trial</Button>
+                  <Input placeholder="Địa chỉ Email của bạn" size="lg" />
+                  <Button>Đăng ký tin tức</Button>
                </Flex>
                <Flex
                   wrap={'wrap'}
@@ -102,7 +103,7 @@ export const Hero = () => {
                         alignItems: 'center',
                      }}
                   >
-                     <CheckIcon /> No credit card required.
+                     <CheckIcon /> Thông tin cập nhật nhanh nhất.
                   </Flex>
                   <Flex
                      css={{
@@ -110,15 +111,7 @@ export const Hero = () => {
                         alignItems: 'center',
                      }}
                   >
-                     <CheckIcon /> 14-day free trial.
-                  </Flex>
-                  <Flex
-                     css={{
-                        color: '$accents7',
-                        alignItems: 'center',
-                     }}
-                  >
-                     <CheckIcon /> Cancel anytime.
+                     <CheckIcon /> Hỗ trợ 18/24.
                   </Flex>
                </Flex>
             </Box>
