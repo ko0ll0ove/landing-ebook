@@ -32,7 +32,7 @@ export const Nav = () => {
             <Navbar.Toggle aria-label="toggle navigation" showIn="xs" />
             <AcmeLogo />
             <Text b color="inherit" hideIn="xs">
-               ACME
+               AI Insight
             </Text>
             <Navbar.Content
                hideIn="sm"
